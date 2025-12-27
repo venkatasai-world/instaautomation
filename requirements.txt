@@ -1,5 +1,4 @@
 instagrapi
 pillow
 google-generativeai
-sqlite3
 dotenv
