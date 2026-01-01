@@ -5,7 +5,7 @@ Consistency was always my dream — automation made it real.
 I built a fully automated system that posts **one meaningful quote every single day**, completely hands-free. From generating quotes to designing images, writing captions, logging in, and posting — everything runs automatically without manual effort.
 
 
-::contentReference[oaicite:0]{index=0}
+<img src="post.jpg">
 
 
 The system intelligently avoids duplicate quotes using an SQLite database, generates aesthetic quote images, creates engaging captions and hashtags using Gemini AI, and schedules daily posting through GitHub Actions with automatic Instagram login.
