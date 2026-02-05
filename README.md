@@ -20,5 +20,5 @@ From late-night code to daily inspiration — **fully automated**.
 👉 Follow the live output here:  
 https://www.instagram.com/datavibe_hub/
 
-Made with ❤️ by **Venkata Sai**  
+Made with ❤️ by **Venkata Sai Merugu**  
 Turning automation into real-world impact.
